@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__
+*.pyc
+raw
+processed
+__buff__
+*.hkl
+__processed__
+*.mat
